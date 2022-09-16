@@ -20,5 +20,5 @@ O objetivo foi desenvolver o Game hub, um site centralizador de links, no estilo
 
 ## 📲 Contato
 
-- [Meu E-mail](luis_eduardogdeo@hotmail.com)
+- Meu E-mail: luis_eduardogdeo@hotmail.com
 - [Meu Linkedin](https://www.linkedin.com/in/luiseduardogdeoliveira) 
